@@ -51,4 +51,4 @@ A functional replica of Google Search integrated with the Google Programmable Se
 
 ## Connect
 
-[GitHub](https://github.com/MuhammadFahad27) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/muhammadfahadashraf) &nbsp;·&nbsp; [muhammadfahadkamboh3@gmail.com](mailto:muhammadfahadkamboh3@gmail.com)
+[GitHub](https://github.com/MuhammadFahad27) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/fahad104) &nbsp;·&nbsp; [muhammadfahadkamboh3@gmail.com](mailto:muhammadfahadkamboh3@gmail.com)
