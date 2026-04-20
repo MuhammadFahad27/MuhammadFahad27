@@ -1,53 +1,54 @@
-# 👋 Hi there! I'm Muhammad Fahad Kamboh
-
-I'm a passionate **Computer Science student** at **Dawood University of Engineering & Technology (DUET), Karachi**, Pakistan.  
-With a growing interest in **Full-stack web development** and **artificial intelligence**, I am constantly building projects, learning new technologies, and exploring the world of software engineering.
+# Muhammad Fahad Ashraf
+### Full-Stack Developer · CS Undergraduate · AI Enthusiast
 
 ---
 
-## 💻 About Me
-
-- 🎓 **CS Undergraduate** at DUET, Karachi  
-- 🌐 Aspiring **MERN Stack Developer**  
-- 🤖 AI Enthusiast |  **Machine Learning**, **Data Science** 
-- 💡 Passionate about building scalable and real-world software solutions  
-- 📍 Based in Karachi, Pakistan  
-- 🌱 Currently exploring new technologies and contributing to open-source
+Currently working in the industry as a Full-Stack Developer while pursuing my BSc in Computer Science at **Dawood University of Engineering & Technology (DUET), Karachi**. I specialise in building scalable, production-ready web applications using the MERN stack, with a growing interest in Machine Learning and Data Science.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman ,   
-
----
-
-## 🚀 Projects Highlights
-
-- 🛒 **E-Commerce Platform (MERN Stack)**  
-  A full-featured e-commerce website built using **React**, **Node.js**, **Express.js**, and **MongoDB**. Includes product listings, user authentication, cart functionality, and an admin dashboard. Fully responsive UI styled with **Tailwind CSS**.
-
-- 🏡 **Real Estate Platform (MERN Stack)**  
-  A real estate listing web app developed with the MERN stack. Allows users to view, filter, and post properties. Integrated with user authentication and dynamic search functionality. Backend built using Node.js and Express, with data stored in MongoDB.
-
-- 🔍 **Google Clone with React**  
-  A clone of the Google search engine built using **React** and **Tailwind CSS**, connected to the **Google Programmable Search API**. Features real-time search, responsive design, and pagination of results.
-
-
-
-> 👉 [Explore More Projects on My GitHub »](https://github.com/MuhammadFahad27?tab=repositories)
+- Currently employed as a **Full-Stack Developer** in the industry
+- BSc **Computer Science** undergraduate at DUET, Karachi
+- Specialising in **MERN Stack** development
+- Exploring **Machine Learning** and **Data Science**
+- Based in **Karachi, Pakistan**
+- Actively contributing to open-source projects
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
-- 🌐 [GitHub](https://MuhammadFahad27/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/muhammadfahadashraf)  
-- 📧 [Email](mailto:muhammadfahadkamboh3@gmail.com)
+**Frontend**
+`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js`
+
+**Database**
+`MongoDB` `MySQL`
+
+**Tools & Platforms**
+`Git` `GitHub` `Postman`
 
 ---
 
-_Thanks for stopping by! Feel free to explore my work and connect with me._ 🚀
+## Projects
+
+### E-Commerce Platform — MERN Stack
+A full-featured e-commerce application with product listings, user authentication, cart management, and an admin dashboard. Fully responsive UI built with Tailwind CSS.
+
+### Real Estate Platform — MERN Stack
+A property listing web application with dynamic search, filter functionality, and user authentication. Backend powered by Node.js and Express, with data persisted in MongoDB.
+
+### Google Search Clone — React
+A functional replica of Google Search integrated with the Google Programmable Search API. Features real-time results, responsive design, and paginated output.
+
+[View all projects on GitHub »](https://github.com/MuhammadFahad27?tab=repositories)
+
+---
+
+## Connect
+
+[GitHub](https://github.com/MuhammadFahad27) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/muhammadfahadashraf) &nbsp;·&nbsp; [muhammadfahadkamboh3@gmail.com](mailto:muhammadfahadkamboh3@gmail.com)
